@@ -107,12 +107,23 @@
   <br />
 
   <!-- Combined Visual Matrix for alignment rendering -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ParasaSriRaghuveerarahul&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <br /><br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasaSriRaghuveerarahul&theme=tokyonight" alt="GitHub Streak" />
-    <br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasaSriRaghuveerarahul&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </p>
+ <!-- Performance & Coding Analytics Dashboard -->
+<h3>📊 Performance & Coding Analytics</h3>
+<br />
+
+<p align="center">
+  <!-- Animated Core GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ParasaSriRaghuveerarahul&show_icons=true&theme=tokyonight&animate_card=true" alt="GitHub Stats" />
+  
+  <br /><br />
+  
+  <!-- Fixed & Animated GitHub Streak Tracker -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasaSriRaghuveerarahul&theme=tokyonight&ring=7aa2f7&fire=e06c75" alt="GitHub Streak" />
+  
+  <br /><br />
+  
+  <!-- Animated Top Languages Grid -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasaSriRaghuveerarahul&layout=compact&theme=tokyonight&card_width=495" alt="Top Languages" />
+</p>
 
 </div>
