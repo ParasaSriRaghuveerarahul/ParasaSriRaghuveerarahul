@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Rahul 👋 
 
-<!--
-**ParasaSriRaghuveerarahul/ParasaSriRaghuveerarahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Data Analyst and Frontend Developer focused on building intelligent, data-driven applications with smooth user experiences.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Focused On
+- **Data Science & AI:** Analyzing datasets, building predictive models, and working with Python/SQL.
+- **Frontend Engineering:** Crafting clean, responsive web applications using React.js and modern UI frameworks.
+- **Current Major Project:** Building an *AI-Powered Career Intelligence Platform* aimed at placement readiness.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Data Science:** Python, SQL, Pandas, NumPy, Data Analysis
+- **Frontend Development:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+- **Developer Tools:** Git, GitHub, VS Code
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParasaSriRaghuveerarahul&show_icons=true&theme=tokyonight" alt="Rahul's Stats" height="150" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=ParasaSriRaghuveerarahul&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+### 🔗 Connect With Me
+- 🌐 Portfolio Website: [https://rahul4444.ccbp.tech/](https://rahul4444.ccbp.tech/)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/sri-raghuveerarahul-parasa-892a632b8/)]
