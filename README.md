@@ -14,8 +14,8 @@ I am an aspiring Data Analyst and Frontend Developer focused on building intelli
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasaSriRaghuveerarahul&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" height="150" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=ParasaSriRaghuveerarahul&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="195" />
 </p>
 
 ### 🔗 Connect With Me
