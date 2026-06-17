@@ -33,7 +33,7 @@
 
   <!-- Portfolio & Connection Handles -->
   <p>
-    <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <a href="rahul4444.ccbp.tech">
       <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-7aa2f7?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
     <a href="YOUR_LINKEDIN_URL_HERE">
