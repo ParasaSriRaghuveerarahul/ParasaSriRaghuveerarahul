@@ -93,7 +93,7 @@
       <td width="50%" align="center" valign="top">
         <h4>📅 AVK Events Website</h4>
         <p>A multi-page event coordination platform featuring structured information architecture and smooth user navigation paths.</p>
-        <a href="[https://github.com/ParasaSriRaghuveerarahul](https://github.com/ParasaSriRaghuveerarahul/avk-events)"><b>View Repository →</b></a>
+        <a href="https://github.com/ParasaSriRaghuveerarahul/avk-events"><b>View Repository →</b></a>
       </td>
     </tr>
   </table>
